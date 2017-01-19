@@ -1,0 +1,330 @@
+# Copyright (C) 2016 ruffie
+# This file is distributed under the same license as the ruffie package.
+msgid ""
+msgstr ""
+"Project-Id-Version: ruffie\n"
+"Report-Msgid-Bugs-To: http://knifftech.net\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kniffen <knifftech@gmail.com>\n"
+"Language-Team: Kniffen Technologies <knifftech@gmail.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../ruffie/404.php:33
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: ../../ruffie/404.php:35
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: ../../ruffie/comments.php:43
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../../ruffie/comments.php:51
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../../ruffie/comments.php:119
+msgid "Comments are closed."
+msgstr ""
+
+#: ../../ruffie/footer.php:51
+msgid "Y"
+msgstr ""
+
+#: ../../ruffie/footer.php:67
+msgid "Theme: <a href=\"%2$s\">%1$s</a>"
+msgstr ""
+
+#: ../../ruffie/functions.php:145
+msgid "Header Menu"
+msgstr ""
+
+#: ../../ruffie/functions.php:147
+msgid "Footer Menu"
+msgstr ""
+
+#: ../../ruffie/functions.php:173
+msgid "Above Content Widget Area"
+msgstr ""
+
+#: ../../ruffie/functions.php:177
+msgid "Widget area above the content"
+msgstr ""
+
+#: ../../ruffie/functions.php:193
+msgid "Left Sidebar Widget Area"
+msgstr ""
+
+#: ../../ruffie/functions.php:197
+msgid "Widget area at the left side of the content"
+msgstr ""
+
+#: ../../ruffie/functions.php:213
+msgid "Right Sidebar Widget Area"
+msgstr ""
+
+#: ../../ruffie/functions.php:217
+msgid "Widget area at the right side of the content"
+msgstr ""
+
+#: ../../ruffie/functions.php:233
+msgid "Footer Widget Area One"
+msgstr ""
+
+#: ../../ruffie/functions.php:237, ../../ruffie/functions.php:257, ../../ruffie/functions.php:277, ../../ruffie/functions.php:297
+msgid "Widget area in the footer"
+msgstr ""
+
+#: ../../ruffie/functions.php:253
+msgid "Footer Widget Area Two"
+msgstr ""
+
+#: ../../ruffie/functions.php:273
+msgid "Footer Widget Area Three"
+msgstr ""
+
+#: ../../ruffie/functions.php:293
+msgid "Footer Widget Area Four"
+msgstr ""
+
+#: ../../ruffie/functions.php:335, ../../ruffie/template-parts/loop.php:81
+msgid "Read more"
+msgstr ""
+
+#: ../../ruffie/header.php:71
+msgid "Menu"
+msgstr ""
+
+#: ../../ruffie/header.php:77
+msgid "Close"
+msgstr ""
+
+#: ../../ruffie/image.php:53
+msgid "Previous Image"
+msgstr ""
+
+#: ../../ruffie/image.php:55
+msgid "Next Image"
+msgstr ""
+
+#: ../../ruffie/inc/customize.php:39
+msgid "Display Site Title"
+msgstr ""
+
+#: ../../ruffie/inc/customize.php:63
+msgid "Display Tagline"
+msgstr ""
+
+#: ../../ruffie/inc/customize.php:87
+msgid "Text Color"
+msgstr ""
+
+#: ../../ruffie/inc/customize.php:111
+msgid "Link Color"
+msgstr ""
+
+#: ../../ruffie/inc/customize.php:135
+msgid "Site Title Color"
+msgstr ""
+
+#: ../../ruffie/inc/customize.php:159
+msgid "Tagline Color"
+msgstr ""
+
+#: ../../ruffie/inc/customize.php:183
+msgid "Border Color"
+msgstr ""
+
+#: ../../ruffie/inc/customize.php:197
+msgid "Entry Metadata"
+msgstr ""
+
+#: ../../ruffie/inc/customize.php:219
+msgid "Display author"
+msgstr ""
+
+#: ../../ruffie/inc/customize.php:243
+msgid "Display date posted"
+msgstr ""
+
+#: ../../ruffie/inc/customize.php:267
+msgid "Display comment count"
+msgstr ""
+
+#: ../../ruffie/inc/customize.php:291
+msgid "Display Post Format"
+msgstr ""
+
+#: ../../ruffie/inc/customize.php:315
+msgid "Display Categories"
+msgstr ""
+
+#: ../../ruffie/inc/customize.php:339
+msgid "Display Tags"
+msgstr ""
+
+#: ../../ruffie/inc/customize.php:363
+msgid "Display Author Bio"
+msgstr ""
+
+#: ../../ruffie/inc/customize.php:377
+msgid "Theme options"
+msgstr ""
+
+#: ../../ruffie/inc/customize.php:399
+msgid "Display full content of posts on index pages"
+msgstr ""
+
+#: ../../ruffie/inc/customize.php:423
+msgid "Display thumbnails on index pages"
+msgstr ""
+
+#: ../../ruffie/inc/customize.php:447
+msgid "Display thumbnails on content pages"
+msgstr ""
+
+#: ../../ruffie/inc/customize.php:471
+msgid "Display read more button"
+msgstr ""
+
+#: ../../ruffie/inc/customize.php:485
+msgid "Social Media Icons"
+msgstr ""
+
+#: ../../ruffie/inc/customize.php:507
+msgid "RSS Link"
+msgstr ""
+
+#: ../../ruffie/inc/customize.php:537
+msgid "%1$s URL"
+msgstr ""
+
+#: ../../ruffie/inc/customize.php:553
+msgid "Footer"
+msgstr ""
+
+#: ../../ruffie/inc/customize.php:575
+msgid "Footer text"
+msgstr ""
+
+#: ../../ruffie/inc/customize.php:599
+msgid "Show Copyright Icon"
+msgstr ""
+
+#: ../../ruffie/inc/customize.php:623
+msgid "Show Current Year"
+msgstr ""
+
+#: ../../ruffie/inc/customize.php:647
+msgid "Advertise Theme"
+msgstr ""
+
+#: ../../ruffie/inc/customize.php:671
+msgid "Scroll to top icon in footer"
+msgstr ""
+
+#: ../../ruffie/inc/theme_functions.php:63
+msgid "RSS Feed"
+msgstr ""
+
+#: ../../ruffie/searchform.php:23, ../../ruffie/searchform.php:25
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: ../../ruffie/searchform.php:25
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: ../../ruffie/searchform.php:29
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: ../../ruffie/template-parts/author_bio.php:31
+msgid "Author:"
+msgstr ""
+
+#: ../../ruffie/template-parts/content_header.php:31
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../../ruffie/template-parts/content_header.php:37
+msgid "404 Not Found"
+msgstr ""
+
+#: ../../ruffie/template-parts/content_header.php:43
+msgid "Untitled Post"
+msgstr ""
+
+#: ../../ruffie/template-parts/content-none.php:19
+msgid "Nothing Found"
+msgstr ""
+
+#: ../../ruffie/template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../../ruffie/template-parts/content-none.php:31
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: ../../ruffie/template-parts/content-none.php:37
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: ../../ruffie/template-parts/content.php:53
+msgid "Pages:"
+msgstr ""
+
+#: ../../ruffie/template-parts/content.php:61
+msgid "Page"
+msgstr ""
+
+#: ../../ruffie/template-parts/content.php:81
+msgid "Next post:"
+msgstr ""
+
+#: ../../ruffie/template-parts/content.php:87
+msgid "Previous post:"
+msgstr ""
+
+#: ../../ruffie/template-parts/entry_meta.php:173
+msgctxt "Used before post format."
+msgid "Format"
+msgstr ""
+
+#: ../../ruffie/template-parts/entry_meta.php:211
+msgid "Edit"
+msgstr ""
+
+#: ../../ruffie/template-parts/loop.php:35
+msgid "Untitled post"
+msgstr ""
+
+#: ../../ruffie/template-parts/loop.php:65
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: ../../ruffie/template-parts/loop.php:99
+msgid "Back"
+msgstr ""
+
+#: ../../ruffie/template-parts/loop.php:101
+msgid "Next"
+msgstr ""
